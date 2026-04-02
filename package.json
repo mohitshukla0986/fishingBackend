@@ -1,2 +1,2 @@
-{"name":"server","version":"1.0.0","description":"my ai fishing app","license":"ISC","author":"mohit","type":"module","main":"app.js","scripts":{"start":"app.js","dev":"nodemon server.js"},"dependencies":{"cors":"^2.8.6","dotenv":"^17.4.0","express":"^5.2.1","mongoose":"^9.3.3","nodemon":"^3.1.14"}}
+{"name":"server","version":"1.0.0","description":"my ai fishing app","license":"ISC","author":"mohit","type":"module","main":"app.js","scripts":{"start":"node app.js","dev":"nodemon server.js"},"dependencies":{"cors":"^2.8.6","dotenv":"^17.4.0","express":"^5.2.1","mongoose":"^9.3.3","nodemon":"^3.1.14"}}
 
